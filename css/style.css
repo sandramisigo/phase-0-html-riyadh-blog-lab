@@ -83,4 +83,9 @@ a:hover {
   .wrapper {
     width: 95%;
   }
+  .wrapper{
+    color: rgb(244, 123, 123);
+    font-size: 12px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
 }
